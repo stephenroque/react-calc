@@ -1,6 +1,6 @@
 </div>
 <div style="display: inline_block">
-  <h1>React - Calc Projet</h1>
+  <h1>React - Calc Project</h1>
   <p>Calculator project, created in <a href="https://web.dio.me/track/orange-tech/">Orange Tech +</a> Bootcamp.</p>
   <h2>Technologies</h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
